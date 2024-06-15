@@ -294,3 +294,16 @@
     background: var(--primary);
     transform: skew(40deg);
 }
+
+.libold{
+    font-weight: bold;
+    color: black;
+}
+
+
+li::marker {
+    color: black;
+}
+a{
+    color: red;
+}
